@@ -1,146 +1,79 @@
-# Welcome to StackEdit!
+# 🌟 Chapter X: [本章英文名称] (本章中文名称)
+> **复习日期：** 202X-XX-XX  |  **进度：** Day X / 12
+> **核心逻辑：** （用一句话概括本章在语言学体系中的位置，例如：本章从物理/生理角度切入语言的声音物质载体，是后续音系学区别意义的基础。）
+> **复盘状态：** [ ] 初记  [ ] 一轮复习(第2天) [ ] 二轮复习(第4天) [ ] 三轮复习(第7天)
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+---
 
+## 🧠 一、 宏观知识框架
+*(建议在这里插入用文本画的思维导图，或者学完后再回来补全。强迫自己不看书写出大标题)*
+- **1.1 核心概念A**
+  - 子概念 A1
+  - 子概念 A2
+- **1.2 核心概念B**
+  - 对比：概念A vs 概念B
+- **1.3 核心理论/规则**
 
-# Files
+---
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+## 📖 二、 核心考点精析
 
-## Create files and folders
+### 2.1 考点一：[考点名称，如：Design Features of Language]
+- **【中英术语】** 
+  - 🇨🇳 语言的定义特征
+  - 🇬🇧 Design Features of Language (Hockett)
+- **【教材定义】** 
+  > *(使用引用格式，原话摘抄胡书上的英文定义或核心长难句，这是答名词解释的得分点)*
+- **【通俗拆解】** 
+  - *(用大白话或一两句中文翻译一下，辅助自己理解)*
+- **【具体分类/内容】**
+  1. **Arbitrariness (任意性)**: 
+     - *解释*：...
+     - *例子*：狗叫 "dog" 还是 "chien" 没有必然联系。
+  2. **Productivity/Duality (创造性/二重性)**: ...
+- **【💡 导师点拨 / 易错点】** 
+  - *(这里写真题怎么考。例如：各校常考名词解释，注意要区分 Arbitrariness 的绝对性和相对性；常与索绪尔的 Sign 体系结合出论述题。)*
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+### 2.2 考点二：[考点名称，如：Langue vs. Parole]
+- **【中英术语】** 🇨🇳 语言 vs 言语 | 🇬🇧 Langue vs. Parole (Saussure)
+- **【对比表格】** *(强烈建议用Markdown表格处理对比概念，这是外应考研最爱出的简答题)*
 
-## Switch to another file
+| 比较维度 | Langue (语言) | Parole (言语) |
+| :--- | :--- | :--- |
+| **本质** | 抽象的、社会的、同质的 | 具体的、个人的、异质的 |
+| **归属** | 属于一个言语社团 | 属于个人 |
+| **研究对象** | 是语言学**真正**的研究对象 | 不是核心研究对象 |
+| **类比** | 国际象棋规则 | 下棋的具体过程 |
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+- **【💡 导师点拨 / 易错点】** 
+  - *(例如：容易和 Chomsky 的 Competence vs Performance 混淆！必须记住两者的提出者和理论背景差异：索绪尔是社会学派，乔姆斯基是心理/生成学派。)*
 
-## Rename a file
+*(按照此格式依次梳理本章的 3-5 个核心考点...)*
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+---
 
-## Delete a file
+## 🔗 三、 跨章节知识联动
+*(语言学是一门体系严密的学科，学到后面必须学会“串线”。每天学完想一想这一章和前面有什么关系)*
+- **本章与第X章的联系：** 
+  - *(例如：本章的 Phonetics（语音学）研究物理属性，而下一章的 Phonology（音系学）研究社会属性，两者是同一事物的两个切面。)*
+- **引入的流派/学者：** 
+  - *(例如：本章引入了结构主义学派鼻祖 Saussure，他的思想将贯穿后续句法、语义章节。)*
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+---
 
-## Export a file
+## ✍️ 四、 真题模拟与输出
+*(考研不能只看不写，每天学完用10分钟默写或口述以下内容)*
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+- **名词解释预测：**
+  - [ ] 请用英语解释：_______ (填入今天最重要的一个术语，控制在 3-5 句话)
+- **简答/论述预测：**
+  - [ ] 简述 _______ 的几个主要特征，并举例说明。
 
+---
+**📝 每日复盘反思：**
+*(今天这章哪里没看懂？哪里计算/分析耗时？明天需要重点看哪里？)*
+> [在此输入今天的反思，例如：元音舌位图今天没画明白，明天早读需要自己重新画一遍坐标轴。]
 
-# Synchronization
-
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
-
-There are two types of synchronization and they can complement each other:
-
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTk4NjcwNDczOSwtMzMyNDU1MzYzXX0=
 -->
